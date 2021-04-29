@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.840,=D:\Git_Proj\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.937,D:\Git_Proj\Unit1.pas=D:\Delphi_Progi\Home_AI\SuzieAI\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.937,D:\Git_Proj\Unit1.fmx=D:\Delphi_Progi\Home_AI\SuzieAI\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.701,=D:\Git_Proj\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.094,D:\Git_Proj\Project1.dproj=D:\Delphi_Progi\Home_AI\SuzieAI\SuzieAi.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.983,=D:\Delphi_Progi\Home_AI\SuzieAI\suzie.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.244,=D:\Delphi_Progi\Home_AI\SuzieAI\utils.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
